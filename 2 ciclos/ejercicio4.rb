@@ -1,5 +1,4 @@
-# Modifica el código para que al mostrar b el resultado sea:
-
+# Modifica el código para que el contenido de b sea:
 # <ul>
 # <li> hola </li>
 # <li> hola </li>
@@ -7,12 +6,18 @@
 # <li> hola </li>
 # <li> hola </li>
 # </ul>
-
-a = 5
+a= 5
 b = ''
 
-a.times do
-  b = "<li> hola </li>\n"
+a.times do 
+b= '<li> hola </li>'
+
 end
 
-puts b
+ 
+
+
+ 
+
+
+

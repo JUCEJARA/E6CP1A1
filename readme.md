@@ -1,5 +1,3 @@
-<section>
-
 # Actividad 011 - Introducción a Ruby
 
 *INSTRUCCIONES*:
@@ -159,5 +157,3 @@ Construir un programa que permita ingresar un número por teclado e imprimir la 
 ~~~
 Ingrese un número (0 para salir): _
 ~~~
-
-</section>
